@@ -10,4 +10,5 @@ O
 R
 L
 D
-2X
+2X ALTER
+
